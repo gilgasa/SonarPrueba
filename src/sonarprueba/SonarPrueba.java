@@ -5,6 +5,8 @@
  */
 package sonarprueba;
 
+import javafx.scene.paint.Stop;
+
 /**
  *
  * @author User
@@ -33,7 +35,7 @@ public class SonarPrueba {
                                 if (holaa == 1) {
                                     if (holaa == 1) {
                                         if (holaa == 1) {
-
+                                            System.out.println("hola");
                                         }
                                     }
                                 }
