@@ -11,12 +11,21 @@ package sonarprueba;
  */
 public class SonarPrueba {
 
+    int holaa;
+
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         System.out.println("Hola Mundo ");
         System.out.println("Hola Mundo 2");
+        System.out.println("Hola Mundo 3");
+
+
+        if(holaa==1){
+            System.out.println(holaa);
+        }
+
     }
     
 }
