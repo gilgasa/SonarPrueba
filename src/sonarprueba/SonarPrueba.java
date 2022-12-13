@@ -21,12 +21,29 @@ public class SonarPrueba {
         System.out.println("Hola Mundo 2");
         System.out.println("Hola Mundo 3");
         System.out.println("Hola Mundo 4");
+        System.out.println("Hola Mundo 6");
 
-
-        if(holaa==1){
+        if (holaa == 1) {
             System.out.println(holaa);
+            if (holaa == 1) {
+                if (holaa == 1) {
+                    if (holaa == 1) {
+                        if (holaa == 1) {
+                            if (holaa == 1) {
+                                if (holaa == 1) {
+                                    if (holaa == 1) {
+                                        if (holaa == 1) {
+
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
 
     }
-    
+
 }
